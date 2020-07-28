@@ -1,10 +1,11 @@
-/* HelloWorld.java
- */
+/* 
+HelloWorld.java
+*/
 
 public class HelloWorld
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
-        String blacklist = "testing";
+        	String blacklist = "testing";
+		System.out.println("Hello World! " + blacklist);
 	}
 }
