@@ -1,0 +1,2 @@
+export MASTER_NODE_NAME=""
+echo $MASTER_NODE_NAME
