@@ -1,4 +1,4 @@
-white_listed_ips = []
+enable_listed_ips = []
 
 
-master_node_name = "node_00"
+main_node_name = "node_00"
