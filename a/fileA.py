@@ -1,5 +1,5 @@
-white_list = [
+enable_list = [
 "ip_address",
 "ip_address"]
 
-print(white_list)
+print(enable_list)
