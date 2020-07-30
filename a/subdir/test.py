@@ -1,4 +1,4 @@
-whitelist = [
+enablelist = [
 "ip_address",
 "ip_address",
-"blacklist"]
+"blocklist"]
